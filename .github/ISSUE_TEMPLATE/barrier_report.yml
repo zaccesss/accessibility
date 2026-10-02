@@ -1,0 +1,35 @@
+name: Barrier report
+description: Something on the website or in a repository is hard to read or use
+title: "fix: "
+labels: ["bug"]
+assignees:
+  - zaccesss
+body:
+  - type: input
+    id: where
+    attributes:
+      label: Where
+      description: The page on the website or the repository and file.
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you were trying to do and what got in the way.
+    validations:
+      required: true
+  - type: textarea
+    id: help
+    attributes:
+      label: What would help
+      description: What would have worked better, if you know.
+    validations:
+      required: false
+  - type: input
+    id: setup
+    attributes:
+      label: Assistive technology or settings
+      description: Only if relevant, for example a screen reader, a zoom level or reduced motion.
+    validations:
+      required: false

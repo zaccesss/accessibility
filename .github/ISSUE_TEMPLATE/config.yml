@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: A barrier on the website
+    url: https://isaacadjei.me/contact
+    about: Tell me the page and what got in the way through my contact page.
+  - name: Security issue
+    url: https://isaacadjei.me/security-policy
+    about: This statement is not the security policy. Follow that policy instead of opening an issue here.
+  - name: Prefer email?
+    url: mailto:contact@isaacadjei.me
+    about: Reach me directly at contact@isaacadjei.me.
