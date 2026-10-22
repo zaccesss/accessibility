@@ -10,3 +10,7 @@ All notable changes to this project will be documented in this file.
 - CODEOWNERS and SUPPORT.md.
 - Markdown lint CI workflow with its own `.markdownlint.json` and workflows README.
 - YAML issue forms for a barrier report and an improvement, a pull request template and an issue template config disabling blank issues.
+
+### Changed
+
+- The repository links under "My repositories" point to each config's folder in dotfiles now that every config lives there and to the dotfiles statement that lists every folder with one.
