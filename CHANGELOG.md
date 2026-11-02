@@ -13,4 +13,5 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 
+- Community files follow the [AI policy](https://github.com/zaccesss/ai-policy): pull requests declare AI use and issue forms ask whether AI helped.
 - The repository links under "My repositories" point to each config's folder in dotfiles now that every config lives there and to the dotfiles statement that lists every folder with one.
