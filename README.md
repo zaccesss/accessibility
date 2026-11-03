@@ -1,5 +1,8 @@
 # Accessibility
 
+[![Markdown Lint](https://github.com/zaccesss/accessibility/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/zaccesss/accessibility/actions/workflows/markdownlint.yml)
+[![Licence: PolyForm Noncommercial](https://img.shields.io/badge/licence-PolyForm%20Noncommercial-green.svg)](LICENSE)
+
 > A web version of this statement also lives at [isaacadjei.me/accessibility](https://isaacadjei.me/accessibility).
 
 This is my accessibility statement, kept in one place so my website and every repository can point to it. It covers what I do so that my work can be read and used by as many people as possible, where the gaps are and how to tell me when something gets in the way.
